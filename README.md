@@ -15,11 +15,11 @@
 </body>
 <br><br>
 
-Study is an art, it illustrates what our mission will be in the world!
+Study is an art, it illustrates what our mission in the world will be!
 
-I am driven by knowledge, mainly in the field of Information Technology, focused on Back-End programming, so i have launched in Python and its modules, mainly in Django, Pandas, XML, Json and Rest API. In line with this, i have knowledge in SQL Server, SQLite and i am learning PostgreSQl, all of this to enable me to carry out more complex integrations and queries in my applications and projects.
+I am driven by knoledge, mainly in the field of Information Technology. Focused on Back-end programming I'm certified in Python and its modules (Django, Pandas, XML, Json and Rest API), aligned with it I have knoledge in SQL Server, SQLite and I'm currently learning PostgreSQL, all to carry out more complex integrations and queries in my applications and projects.
 
-As a possible practical difference in AWS VPC and EC2, thus combining cloud construction resources with the virtualization of high-tech computers, they generate high-performance software.
+As a possible practical difference I can offer AWS VPC and EC2, thus combining cloud construction resources with the virtualization of high-tech computers and generating high-performance software.
 
 
 ## Hard Skills
