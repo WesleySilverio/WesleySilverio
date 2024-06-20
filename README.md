@@ -29,8 +29,8 @@ As a possible practical difference I can offer AWS VPC and EC2, thus combining c
 ![SQLite](https://img.shields.io/badge/-SQLite-00008b?style=flat&logo=SQLite&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-00008b?style=flat&logo=Git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-00008b?style=flat&logo=GitHub&logoColor=white)&nbsp;
-![EC2](https://img.shields.io/badge/EC2-00008b?style=flat&logo=amazonaws&logoColor=white)&nbsp;
-![AWS VPC](https://img.shields.io/badge/VPC-00008b?style=flat&logo=amazonaws)&nbsp;
+![EC2](https://img.shields.io/badge/EC2-00008b?style=flat&logo=amazonwebservices&logoColor=white)&nbsp;
+![AWS VPC](https://img.shields.io/badge/VPC-00008b?style=flat&logo=amazonwebservices)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-00008b?style=flat&logo=MicrosoftExcel&logoColor=white)&nbsp;
 
 
